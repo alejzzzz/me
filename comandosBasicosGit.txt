@@ -1,0 +1,7 @@
+Resumen de los comandos:
+
+git init                                                                    : Inicializa un nuevo repositorio de Git.
+git add .                                                                   : Añade archivos al área de preparación.
+git commit -m "Mensaje del commit"                                          : Crea un commit con los cambios.
+git remote add origin https://github.com/alejogmzzz/me.git      : Enlaza el repositorio local con el remoto.
+git push -u origin main o git push -u origin master                         : Sube los cambios al repositorio remoto.
