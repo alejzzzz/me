@@ -17,3 +17,6 @@ Clonar repositorio :
 git clone <url-del-repositorio>
 git clone https://github.com/tu-usuario/tu-repositorio.git                  : Clonado con https.
 git clone git@github.com:tu-usuario/tu-repositorio.git                      : Clonado con Ssh.
+
+
+hola que hace
