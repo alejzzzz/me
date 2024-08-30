@@ -3,5 +3,8 @@ Resumen de los comandos:
 git init                                                                    : Inicializa un nuevo repositorio de Git.
 git add .                                                                   : Añade archivos al área de preparación.
 git commit -m "Mensaje del commit"                                          : Crea un commit con los cambios.
-git remote add origin https://github.com/alejogmzzz/me.git      : Enlaza el repositorio local con el remoto.
-git push -u origin main o git push -u origin master                         : Sube los cambios al repositorio remoto.
+git remote add origin https://github.com/alejzzzz/me.git                    : Enlaza el repositorio local con el remoto.
+git push -u origin master                                                   : Sube los cambios al repositorio remoto.
+git remote -v                                                               : Esto te mostrará una lista de los remotos configurados y sus URLs.
+git remote set-url origin https://nuevo-url-del-repositorio.git             : Esto cambia la URL del remoto origin a la nueva URL que especifiques.
+git switch main                                                             : Cambiar de rama
