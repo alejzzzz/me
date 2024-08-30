@@ -7,4 +7,13 @@ git remote add origin https://github.com/alejzzzz/me.git                    : En
 git push -u origin master                                                   : Sube los cambios al repositorio remoto.
 git remote -v                                                               : Esto te mostrará una lista de los remotos configurados y sus URLs.
 git remote set-url origin https://nuevo-url-del-repositorio.git             : Esto cambia la URL del remoto origin a la nueva URL que especifiques.
-git switch main                                                             : Cambiar de rama
+git switch main                                                             : Cambiar de rama.
+git branch                                                                  : Ver las ramas disponibles.
+git branch -r                                                               : Ver las ramas disponibles en tu directorio remoto.
+git branch -a                                                               : Este comando muestra todas las ramas locales y remotas disponibles.
+
+Clonar repositorio :
+
+git clone <url-del-repositorio>
+git clone https://github.com/tu-usuario/tu-repositorio.git                  : Clonado con https.
+git clone git@github.com:tu-usuario/tu-repositorio.git                      : Clonado con Ssh.
