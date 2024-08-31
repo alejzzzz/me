@@ -1,7 +1,7 @@
 {
     "programas": {
         "VLC": {
-            "path": "C:\\Users\\user\\Desktop\\CursoPro\\prueba\\instaladores\\Git-2.46.0-64-bit.exe",
+            "path": "instaladores\\Git-2.46.0-64-bit.exe",
             "silent_args": "/S"
         },
         "Chrome": {
